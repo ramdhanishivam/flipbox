@@ -1,2 +1,2 @@
-# flipbox
-Flip
+# FlipBox Custom Post Type in WordPress
+
